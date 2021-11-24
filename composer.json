@@ -2,7 +2,7 @@
     "name": "jorpo/resolution",
     "description": "Object resolver using Auryn dependency injection",
     "type": "library",
-    "license": "GNU GPLv3",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "John Porter",
